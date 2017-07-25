@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="16dp">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.tc2r.tinderhelptest.MainActivity">
+
+        <TextView
+            android:id="@+id/title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginBottom="25dp"
+            android:paddingLeft="15dp"
+            android:text="@string/MainTitle"
+            android:textColor="@android:color/black"
+            android:textSize="50sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+        <TextView
+            android:id="@+id/guide_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/title_tv"
+            android:layout_marginBottom="25dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:paddingLeft="15dp"
+            android:text="Guide"
+            android:textSize="20sp"/>
+
+        <ImageView
+            android:id="@+id/mainimage_iv"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/guide_tv"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="30dp"
+            android:elevation="17dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/mainactivity_image"/>
+
+        <TextView
+            android:id="@+id/categories_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mainimage_iv"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="50dp"
+            android:layout_marginBottom="10dp"
+            android:text="Categories"
+            android:textSize="15sp" />
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/subject_0_card_view"
+            android:layout_width="290dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:elevation="12dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/subject_0_btn_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/subject_0_title_tv"/>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/subject_1_card_view"
+            android:layout_width="290dp"
+            android:layout_height="80dp"
+            android:layout_below="@+id/messaging_ll"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/subject_1_btn_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/subject_1_title_tv"/>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/subject_2_card_view"
+            android:layout_width="290dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:elevation="14dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/subject_2_btn_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/subject_2_title_tv"/>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/subject_3_card_view"
+            android:layout_width="290dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:elevation="13dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/subject_3_btn_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/subject_3_title_tv"/>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/subject_4_card_view"
+            android:layout_width="290dp"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="50dp"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            app:cardElevation="10dp">
+
+            <TextView
+                android:id="@+id/subject_4_btn_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="@string/subject_4_title_tv"/>
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+</ScrollView>

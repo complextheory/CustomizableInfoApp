@@ -1,0 +1,421 @@
+<resources>
+    <string name="app_name">"Best FNAF 4 Guide/Tips"</string>
+    <string name="ToolbarBack">"Back"</string>
+    <string name="MainTitle">"FNAF Help"</string>
+    <string name="Main_subTitle">"Guide"</string>
+
+
+    <string name="subject_0_title_tv">"BASICS:"</string>
+    <string name="subject_0_subTitle">"An Overview"</string>
+
+    <string name="subject_0_description_tv">"The Basics
+        \n\nFive Nights at Freddy’s 4 is both like and unlike the previous games in the series. You "
+        "still need to survive until 6 am, you still need to watch out for murderous animatronics, "
+        "and you’re still subjected to jumpscares when you muck up. That said, there are plenty of "
+        "changes as well.
+        \n\nFor starters, you don’t have any cameras. You’re stuck in a single room the entire time. "
+        "You can move to different vantage points in the room, however, and doing so is important "
+        "for overall survival.
+        \n\nThere’s no power meter. The only device operating on power in this game is the flashlight, "
+        "and it lasts the entire night. This is good…
+        \n… except that you can’t leave doors closed for as long as power permits anymore. You must "
+        "be beside a door and hold it down via a keyboard press. This is bad, as it means you aren’t "
+        "looking at the other door.
+        \nSound cues are incredibly important. They were of varying importance in previous games - "
+        "middling in the first game, high in the second, somewhat low in the third - but now they’re "
+        "essential. If you don’t have a good pair of headphones you will notsurvive. And when I say "
+        "good headphones, I mean a complete pair. A single ear won’t do it.
+        \nThe flashlight is not an automatic saviour anymore. It can, in fact, hurt you if you use "
+        "it incorrectly. More on that in a bit.
+        \nThe game boils down to this: you survive by using the flashlight to illuminate the animatronics "
+        "and scare them away before they get too close. If they are too close, you close whatever "
+        "door they’re near in their face until they lumber away. Sound like a plan?
+        \n\nUse headphones - Sound is the most important it’s ever been in Five Nights at Freddy’s 4. "
+        "If you don’t perk up your ears you’re as good as dead. So make sure to play with headphones "
+        "on because most of the extremely important audio cues (and clues) won’t be easy to make out "
+        "on your iOS device’s speaker and over any background noise.
+        \n\nListen very, very carefully - All of the important information you need to survive comes from sound, "
+        "so listen up! Much of it is background noise designed to get in the way of what you’re trying "
+        "to listen for, but if you turn up the volume (within tolerable levels) and be patient you "
+        "should be able to make everything out.
+        \nYou can sort of queue actions by holding the appropriate section of the screen - The game "
+        "doesn’t really support multitouch, but you can make use of those transitional running animations "
+        "by getting a thumb in the right spot. Once you make it to wherever you were headed you’ll "
+        "immediately perform the appropriate action (i.e. turning on the flashlight, closing a door, "
+        "turning, etc).
+        "Animatronic footsteps sound like someone walking over gravel - Whenever you hear that sound, "
+        "you know that someone’s on the move. The direction the sound comes from seems to be "
+        "inconsequential, though."</string>
+
+    <string name="subject_1_title_tv">"ANIMATRONICS:"</string>
+    <string name="subject_1_subTitle">"Meet The Characters"</string>
+    <string name="subject_1_description_tv">"The Animatronics
+        \nThere are five actively dangerous animatronics in Five Nights at Freddy’s 4. Knowing how "
+        "they act, and react, is key to your survival. Here are some tips in dealing with this "
+        "vicious crew.
+        \n\nBonnie
+        \n\nTrue to tradition, Bonnie the Big Purple Rabbit will come at you from the left door, "
+        "and if you shine your flashlight down that hallway you’ll often see him skulking at the "
+        "far end. Bonnie is one of the easier animatronics to avoid - all you need to do is flash "
+        "the hallway periodically. If he does get up close, stand at the door, listen for his "
+        "tell-tale breathing (it sounds like a sigh, or something brushing against a microphone), "
+        "and close the door for several seconds to keep him out. Don’t flash the hallway if you "
+        "hear this breath or he will instantly kill you. Don’t turn the light on as soon as you "
+        "open your door! The sound cue won’t go off for a few seconds, and the chances are way too "
+        "good that you’ll kill yourself for getting too trigger-happy.
+        \nIf Bonnie’s sound cue is tripping you up, watch your flashlight. Assuming Foxy isn’t in "
+        "the room, your beam will begin to flicker if he’s standing at the door. (Or the next "
+        "animatronic in the lineup. Either or.)
+        \n\nChica
+        \nThe bad bird of the gang is basically the opposite of Bonnie, coming at you from the right "
+        "door instead of the left. Bonnie’s rules apply when dealing with Chica. "
+        "(Also, her danged cupcake.)
+        \n\nFoxy
+        \nFoxy is one of the more problematic animatronics, as always. Foxy starts outside your "
+        "room, but he makes it his mission to get inside. From Night 2 onwards (though much more "
+        "prominently on Night 3 and above) he will run around in the hallways, waiting for you to "
+        "leave one of the two doors unguarded. Flash the hallways to stop him. If he does get in he "
+        "will hide in your closet, and you’ll have to check on him to prevent a jumpscare death. "
+        "Close the door in his face (quite literally), and keep doing it until he is replaced by a "
+        "Foxy doll. Foxy will mess with your flashlight once he’s in the closet, so keep checking "
+        "on him to stop this flickering. (And, you know, to prevent imminent death.) Foxy forces you "
+        "to juggle four tasks rather than three, so keeping him out is of paramount importance.
+        \nOne handy tip for evading Foxy is to pay close attention to the direction of his pitter-patter "
+        "in the hallways. If you hear him heading to the right, check the right hallway. If you hear "
+        "him heading to the left, check the left. This usually pushes him out of that hallway and "
+        "into the other one. This is especially important if you hear him running and then stop, "
+        "in which case he’s right outside one of the doors. Flashing him will send him packing. "
+        "You need a good pair of headphones to take advantage of this advice, however (and they’re "
+        "kinda necessary for this game in general).
+        \n\nFreddy
+        \nThe leader of the bunch is a much more immediate threat in Five Nights at Freddy’s 4 than "
+        "he previously was. Freddy is more or less always in the room, initially taking the form of "
+        "three demonic plushies that will appear behind your back. You need to flash the bed constantly "
+        "to stop these little creeps from multiplying, because once all three are on the bed, "
+        "Freddy’s not far behind in delivering a jumpscare and ending your game. Every time you perform "
+        "an action, check the bed. It only takes a second, and will save you in the long run. The "
+        "more plushies are on the bed, the longer you’ll have to flash them with your beam.
+        \nThere are two ways to tell if the plushies are building up. The first is your flashlight. "
+        "Like Foxy, these little pests can mess with the beam. If you\'re seeing a lot of flicker and "
+        "Foxy\'s not around, it\'s their fault. The second is the noises. If there are two or more of "
+        "these critters on the bed, you will be able to hear them chittering away very faintly in "
+        "the background.
+        \n\nFredbear
+        \nThe big man comes out to play. Fredbear is a solo player in his levels, and so I\'ve "
+        "included information on how to beat him under Night 5, below.
+        \n\nPlushtrap
+        \nIn addition to the normal nights, you will engage in a game of Red Light, Green Light with "
+        "Springtrap, the star of Five Nights at Freddy\’s 3, between nights. (Yes, I know, he\'s "
+        "Plushtrap, but.. c\'mon. Springtrap!) During these matches you must stare down Springtrap "
+        "in a hallway and try to illuminate him when he stops on an X on the floor in front of you. "
+        "If you manage this successfully before the time is up… or Springtrap gets you… you\’ll receive "
+        "two hours off of the timer in the next level. Pretty sweet.
+        \nThis mini game is not as difficult it seems. The trick is to ease up on the flashlight. "
+        "Springtrap won’t move unless you give him a chance to move, and if you use the flashlight "
+        "too often he\’ll just keep resetting himself on the chair at the end of the hall. Wait for "
+        "him to make two movement noises - this will put him right beside the X - then give him "
+        "roughly eight seconds to move again before using the flashlight. If you time it properly "
+        "you\’ll catch him right on the X and earn your meagre reprieve. You have less time with "
+        "each match, so getting the timing down early is key to completing the game.
+        \nIt is important to note that the two hour bonus only applies to your next round. If you "
+        "die on the next night you will have to play any subsequent games from 12 am, not 2 am."</string>
+
+    <string name="subject_2_title_tv">"NIGHTS 1 - 3"</string>
+    <string name="subject_2_subTitle">"WalkThrough"</string>
+
+    <string name="subject_2_description_tv">"Night 1
+        \n\nNight 1 is the first playable night of Five Nights at "
+        "Freddy\'s 4. This night serves as an introductory stage that acquaints the player with the "
+        "mechanics of the game.
+        \nUnlike the previous installments, there is no Phone Guy to explain anything to the player. "
+        "Instead the game uses tooltips over the interactive areas. To enable the player to get a "
+        "feel for the game, the assault of the animatronics does not start for about 3 hours or "
+        "slightly less.
+        \nThe game starts up with a line saying "Five days until the party". Then an image of a "
+        "pixelated Fredbear appears and begins to talk to the player. The screen changes to a crying "
+        "child locked in a room with toys of the Fazbear gang (Foxy is missing his head) and the "
+        "Fredbear toy on the bed, following the player with his eyes. If the player moves over to "
+        "the toys, a text box will appear saying "These are my friends." To end the minigame, move "
+        "the child over to the door. Once the door has been knocked on enough, the child will lay "
+        "down and cry, prompting a text box that says "Tomorrow is another day." to appear and end "
+        "the game.
+        \nThe only animatronics active on this night is Nightmare Freddy, Nightmare "
+        "Bonnie/Jack-O-Bonnie, and Nightmare Chica/Jack-O-Chica. Nightmare Foxy/Nightmare Mangle "
+        "may also appear if the player shines their flashlight on the bed for 15 seconds.
+        \nIn the Halloween Edition, the same events happen again, with decorations in the house.
+        \n\nStrategies
+        \nThis night is fairly tame in nature to allow the player time to settle in. However, it is "
+        "still extremely easy to fall into some of the lesser explained traps of the game with some "
+        "mechanics being easier to pick up on than others. For the first time, there is no Monitor "
+        "to view or any visual aids; the player\'s only cues to detect the animatronics will be of "
+        "the sounds they make, so clear listening is an absolute must.
+        \nThe player has two things they must do on this night in order to survive.
+        \nThe player must turn around to the bed every so often and flash the light to keep it free "
+        "of Nightmare Freddy\'s small counterparts. If they are neglected, Nightmare Freddy will "
+        "form and attack the player. If the bed is stared at for too long, Nightmare Foxy/Nightmare "
+        "Mangle will attack from behind.
+        \nKeep Nightmare Bonnie/Jack-O-Bonnie and Nightmare Chica/Jack-O-Chica away from the doors "
+        "on either side. This can be done by the player running to the doors and listening for at "
+        "least 3 to 4 seconds (clarified by Scott Cawthon on Steam) for breathing. If breathing can "
+        "be heard, the player must close the door for a few seconds to allow the animatronic to walk "
+        "away. This will be indicated by the sound of their footsteps. If breathing cannot be heard, "
+        "the Flashlight must be shone down the hall to fend off a possible approach from the animatronic.
+        \nAnother way to beat this night is to flash the bed from 2 AM onward. If Nightmare "
+        "Foxy/Nightmare Mangle approaches, his efforts will be proven futile unless the player turns "
+        "around, which can be easily avoided.
+        \nIt is important to note that not being attentive enough while handling the doors can "
+        "result in death if the animatronic is anywhere in the hall. If the Flashlight is shone "
+        "while the animatronic is in breathing distance, they will attack. Vice versa, if the door "
+        "is closed while the animatronic is down the hall, they will sprint down and attack the "
+        "instant the door is opened. Patience is a virtue when dealing with the doors, but the "
+        "player should also be warned that hanging around one door too long can cause the other "
+        "animatronic to sneak in and attack when they turn to the bed.
+        \n\nEnd of Night Sequence
+        \nOnce the Night is over, an alarm clock will sound and 6 AM will appear on the screen. "
+        "Then, another minigame sequence will play. The crying boy will be in the room again, "
+        "however, this time they can leave to explore the house with the Fredbear toy waiting for "
+        "them in each room. Going to the right reveals a female\'s room with a broken Mangle toy "
+        "lying next to a bed. Going to the left reveals a family room with a TV set and couch. If "
+        "the child approaches the TV set, someone from behind it wearing a Foxy head will scare the "
+        "child. This ends the sequence with the words "Tomorrow is another day." appearing once more.
+        \nAt the end of every night, the player will have a chance to get two hours skipped the next "
+        "night by playing the "Fun with Plushtrap" minigame. It is essentially "Red Light, Green Light". "
+        "To win, the player must to keep the light off to allow Plushtrap to move from his chair at "
+        "the end of the hall towards the player where an X lies on the floor. If light is shined "
+        "while Plushtrap is on the X, the player wins 2 hours off. But, if the player fails to stop "
+        "Plushtrap on the X, or allows Plushtrap to move past the X, which results in a jumpscare, "
+        "the player will not get two hours off the next night. It should also be noted that if the "
+        "two hours off is received, and the night ends up failed, the two hours off will no longer "
+        "take effect.
+        \n\nNight 2
+        \n\nNight 2 is the second playable night of Five Nights at Freddy\'s 4. Nightmare Foxy "
+        "officially becomes active on this night and the other animatronics start to get more aggressive.
+        \nOn the Halloween Edition, Nightmare Mangle, who replaces Nightmare Foxy, is active on this night.
+        \n\nStrategies
+        \nThis is where the game puts the player\'s listening skills to the test. Nightmare Bonnie "
+        "and Nightmare Chica are far less merciful than on the first night, with one of them usually "
+        "being the more preferred aggressor. The same strategy applies for this night, except now "
+        "Foxy must be taken into consideration. There are also more noises added to the mix, particularly "
+        "footsteps, designed to disorient the player.
+        \n\nFoxy Behavior
+        \nThe player must watch the closet to see when Foxy needs attention, or just check it every "
+        "so often. When Foxy appears in the closet, he\'ll start as a Foxy plush, but will gradually "
+        "evolve to the state where he\'s bent down ready to spring the closet to attack. This can be "
+        "countered by holding the closet door closed until he goes back through the stages, allowing "
+        "the player to get back to the side doors. There seems to be no penalty for shining the "
+        "flashlight into the closet, besides the possibility of a non-lethal jumpscare. Nightmare "
+        "Foxy\'s main avenue of attack is when the player is attempting to tend to the Freddy Fazbear "
+        "plush on the bed. He can attack while the player\'s back is turned.
+        \n\nEnd of Night Sequence
+        \nThe sequence with the crying child this time takes place at a diner, with the messages "
+        "indicating that the boy doesn\'t like it there, and has been left on purpose. When a man in "
+        "a Golden Freddy outfit arrives, the player will be prompted to run to the left to the next "
+        "screen, do so. After this, the player will see Purple Freddy/Bonnie outfits waiting there, "
+        "and will be tempted to try and pass them, only to fail when the man in the Golden suit arrives. "
+        "The sequence will end after this.
+        \n\nPurple Guy Helping Suit
+        \nPurple Guy helping an employee put on the Spring Bonnie suit.
+        \nOn the special note, if the player doesn\'t run left when the game asks the player to at "
+        "the purple outfit screen and instead run back to the first one, the player can see a very "
+        "revealing sequence involving two people briefly in the background.
+        \nThe Plushtrap minigame is up again to get 2 hours off Night 3 afterward.
+        \n\nNight 3
+        \n\nNight 3 is the third playable night of Five Nights at Freddy\'s 4, as well as the last "
+        "night available to play in the demo. If the player completes this night while playing the "
+        "demo, they will get a screen showing part of Nightmare Fredbear\'s face and text saying "To be "
+        "continued in the full version…"
+        \nThe animatronics from the previous nights are more active than before, making it harder "
+        "for the player to keep track of them.
+        \n\nStrategies
+        \nNot much has changed in terms of method, except the player must now be far more skilled at "
+        "it, as the animatronics now are more vicious than before, especially Nightmare Foxy. Once "
+        "his timer has started, it runs down far quicker than before.
+        \nIt is helpful to note that there are more sounds of footsteps in this level, any near "
+        "sprinting that can be heard while the player is at a door will certainly indicate that Foxy "
+        "has infiltrated the room and upon next chance the closet should be visited to check his "
+        "status, as he starts his timer a little far on.
+        \nOther than Foxy\'s increased aggression the key difference to this night is simply not "
+        "allowing the sense of panic to overtake when playing. When the light starts to flicker more "
+        "frequently, the player must take action on the Nightmare Freddy creatures on the bed.
+        \n\nEnd of Night Sequence
+        \nThe crying child is once again at the diner, however this time they can exit without being "
+        "stopped. Along the way the player can run into various children who will show off their "
+        "Fazbear gang dolls or make fun of the crying child. Of note, one of the children has a "Spring "
+        "Bonnie" doll and another chubby child is holding a Balloon, like Balloon Boy.
+        \nRunning all the way will take the crying child back home, where entering the bedroom initiates "
+        "another scare from the person in the Foxy mask. "Tomorrow is another day".
+        \nThe Plushtrap minigame is up again for extra time off once."</string>
+
+    <string name="subject_3_title_tv">"NIGHTS 4 - 5"</string>
+    <string name="subject_3_subTitle">"WalkThrough Cont..."</string>
+
+    <string name="subject_3_description_tv" formatted="false">"Night 4
+        \n\nNight 4 is the fourth playable night "
+        "of Five Nights at Freddy\'s 4. The animatronics become more active on this night.
+        \n\nStrategies
+        \nThe player should follow a similar strategy from Night 3, but use more caution when dealing "
+        "with the animatronics. The most important thing is keeping Nightmare Foxy out for as long as "
+        "possible. Always listen for his footsteps as shining the Flashlight on him can keep him out "
+        "longer. If the sound of Nightmare Freddy\'s mini Freddy\'s screaming can be heard the player "
+        "should make a note of checking the Bed soon. An important tactic is getting into a pattern "
+        "such as checking for Nightmare Bonnie and Nightmare Chica at their respective doors, then "
+        "checking the bed and finally The Closet once Nightmare Foxy has entered.
+        \n\nEnd of Night Sequence
+        \nThis short sequence shows the crying boy locked in the pizzeria spare parts/maintainace "
+        "room crying to be let out, until curling on the floor crying as the night ends. The room "
+        "shows endoskeleton parts, a slumped over suit of what appears to be Fredbear, a mysterious "
+        "skull, and a head of Springtrap.
+        \nAs usual, the minigame with Plushtrap can be played to skip two hours into Night 5.
+        \n\nNight 5
+        \n\nThe 5th Night is the final main night of Five Nights at Freddy\'s 4. Unlike the previous "
+        "nights, there is only one animatronic active on this night, being Nightmare Fredbear. The "
+        "breathing the other Nightmare animatronics make is replaced by laughter.
+        \nUpon completing this night, the player will unlock the Extra menu, with the Animatronics "
+        "and Making Foxy features available in said menu.
+        \n\nStrategies
+        \nIn this night, a number of features of the previous nights change; for instance, all the "
+        "other nightmare animatronics are replaced by Nightmare Fredbear. However, Nightmare Fredbear "
+        "puts a much more challenging strain on the player. To keep Fredbear away, the player must "
+        "close the door very quickly when he appears in the hallway, and if he appears in the Closet "
+        "or the Bed, hold the flashlight on him until he disappears. If he is in the Closet, the door "
+        "can also be closed until he leaves, similar to Nightmare Foxy\'s behavior.
+        \nThis night brings back visual cues to the game, as Nightmare Fredbear will never directly "
+        "jumpscare the player simply for shining the flashlight, only if they are late in reacting "
+        "after it has been flashed. Audio cues are still required for detecting when the player must "
+        "fend off Nightmare Fredbear from the Closet or the Bed, as his laughter indicates he has "
+        "infiltrated the bedroom. Keep in mind that if the player hears laughter and footsteps, "
+        "then Nightmare Fredbear has not infiltrated the room, but is either on the right side or "
+        "the left side. Failure to immediately investigate both places where he could hide will "
+        "result in at best a 50/50 chance of finding where he is, or at worst, in imminent death. "
+        "It is possible, that Nightmare Fredbear can go to the right/left side and then immediately "
+        "go to the other side. To protect themselves, the player should listen for footsteps very "
+        "carefully to locate him. If they hear him go to the left/right side, and then hear footsteps "
+        "again, means that he moved to the other side. Whenever the player holds the door shut when "
+        "Fredbear in the hall, it is important that they do not let go of the door until they hear "
+        "Fredbear\'s footsteps.
+        \nThe sound Nightmare Fredbear makes when he enters the Bedroom.
+        \n\nEnd-of-Night Sequence
+        \nNight 5\'s End-of-Night Sequence may be the most significant sequence in the game, as it "
+        "reveals the culprit of an incident involving the protagonist\'s head being crushed. Many have "
+        "alikened this to The Bite of \'87, while some have thought of this as a separate incident entirely.
+        \nThe sequence begins with the text "0 days until the party". The sequence then shows the "
+        "pizzeria in which the boy was left off with four older children wearing masks of Freddy, "
+        "Foxy, Bonnie, and Chica. They force the boy to the stage in an effort to scare him. His "
+        "head gets stuck inside Fredbear\'s mouth. Fredbear\'s mouth then clamps down on the boy\'s head.
+        \nAfter this end-of-night sequence, the game returns to the title screen and reward them "
+        "with the first star, as well as access to Night 6."</string>
+
+    <string name="subject_4_title_tv">"NIGHTS 6 - 7"</string>
+    <string name="subject_4_subTitle">"The Nightmare Ends"</string>
+
+    <string name="subject_4_description_tv" formatted="false">"6th Night
+        \n\nNight 6 is one of the bonus nights for Five Nights at Freddy\'s. It is unlocked after "
+        "the completion of Night 5.
+        \nWith the exception of 4/20 mode in the Custom Night, Night 6 is the most difficult night "
+        "to beat. Often nicknamed "Nightmare Mode", all animatronics are incredibly active, and the "
+        "player must be very careful in order to complete this night. Unlike the previous five nights, "
+        "there is no phone call or audio recording at the start of the night.
+        \nUpon completion, the player will see a slightly modified version of the same screen displayed "
+        "after completing Night 5, which now says "You\'ve earned some overtime!" as an additional "
+        "line of text, plus a salary raise of 50 cents. The check is also pink instead of light "
+        "green and dated 11-13-XX. The player will earn the title of "Employee of the Month" instead "
+        "of "valued employee."
+        \nOn return to the title screen, below the option "6th Night," there is another option entitled "
+        ""Custom Night," allowing the player to set the difficulty of the animatronics\' A.I. manually "
+        "(besides Golden Freddy). Also, upon completing Night 6, players will receive a second star "
+        "on the menu.
+        \n\nStrategies
+        \nThe most common strategy to surviving Night 6 is for the player to:
+        \nCheck Foxy and Freddy Fazbear (based on where he is. It is recommended to start watching "
+        "him from the Show Stage.)
+        \n\nCheck the Hall lights.
+        \nRepeat.
+        \n\nAlternatively, the player can:
+        \nCheck only Freddy (on the Show Stage).
+        \nCheck the Hall Lights.
+        \nCheck Pirate Cove every 2-3 cycles.
+        \nRepeat.
+        \n\nTips
+        \nDespite rumors, Foxy will still attempt to attack regardless of whether or not the player looks at "
+        \nPirate Cove. This is assumed to be a bug that was fixed in the 1.13 update.
+        \nThe groaning sounds that Bonnie and Chica make are audible even when the Monitor is not "
+        "raised, so if the player hears it, they should check the lights frequently.
+        \nFreddy can appear at the East Hall Corner almost instantaneously at almost any time, so a "
+        "heavy eye must be kept on him.
+        \n\nIn order to complete the night, these power milestones should be reached:
+        \n\n1 AM, should have at least 80% power.
+        \n\n2 AM, should have at least 60% power.
+        \n\n3 AM, should have at least 40% power.
+        \n\n4 AM, should have at least 25% power.
+        \n\n5 AM, should have at least 9% power.
+        \n\nIf this process is done correctly, there is a significantly higher chance that Night 6 "
+        "will be completed successfully.
+        \n\nCompleting the Game
+        \n522
+        \nThe check earned for beating Night 6.
+        \nUpon completing the sixth night, the player will be greeted with a happy-toned image of a "
+        "$120.50 paycheck with a background of the animatronic band in a non-disturbing daytime light.
+        \nWhile this screen is shown, the Toreador March track plays, which is the same jingle played "
+        "when Freddy Fazbear is in the Kitchen or when all power is lost and the only thing to do is "
+        "wait for an ominously lit Freddy Fazbear to attack. After being returned to the menu screen, "
+        "there will be two stars under the game\'s title and another option at the bottom titled "
+        ""Custom Night" underneath the 6th Night option.
+        \n\nNight 7
+        \n\nWhile Five Nights at Freddy\'s 4 doesn\'t have a custom night, there is a Night 7, "
+        "proclaimed as Nightmare, which is unlocked after the completion of Night 6 and found in the "
+        "Extra menu. This night is harder than the others as every animatronic is incredibly active. "
+        "At 4 AM, this night also introduces Nightmare, who replaces Nightmare Fredbear.
+        \nOn the Halloween Edition, Nightmare is replaced by Nightmarionne, along with the other "
+        "animatronics before 4 AM.
+        \n\nEnd of Night Sequence
+        \n\nLockboxend
+        \n\nThe scene revealed after completing Nightmare mode.
+        \n\nAfter completing Night 7, the player is brought to a screen with a box with two locks on "
+        "After attempting, some text appears at the top of the screen reading "Perhaps some things "
+        "are best left forgotten, for now." Possibly hinting the free update which was released on "
+        "October 31. The game will then return to the title screen, rewarding the player with the "
+        "third star on the title screen.
+        \nScott later revealed in a post on Steam that the contents of the box are the "pieces" of "
+        "the story put together. However, at this time, no one had successfully put the pieces "
+        "together, something Scott described as incredible and a fitting conclusion to the franchise. "
+        "With that, he heavily implied that he will not reveal the contents of the box as "some things "
+        "are best left forgotten, forever".
+        \n\nNight 8 (20/20/20/20 Mode)
+        \n\nAfter completing Nightmare mode (Night 7), the player can unlock Night 8 by visiting the "
+        "Extras screen, then typing 20202020 using the number keys. The number pad cannot be used, "
+        "and entering any other sequence of keys will not work. If entered correctly, "Nightmare" "
+        "mode will change to 20/20/20/20 mode, and the player can start Night 8. On mobile devices, "
+        "to get to 20/20/20/20 mode, it is required to double-tap on Nightmare. Completing Night 8 "
+        "will award the player the fourth and final star on the title screen. As of the Halloween "
+        "update, once Night 8 is beaten, it cannot be accessed again.
+        \n\nStrategy of 20/20/20/20 Mode
+        \nThe key to completing 20/20/20/20 mode is to actually stay calm and not rush about during "
+        "the first 4 hours of the 20/20/20/20 mode. The strategy is to focus entirely on Nightmare "
+        "Foxy and the bed, ignoring Nightmare Bonnie or Nightmare Chica. Headphones or good speakers "
+        "are recommended so that audio cues can be easily heard.
+        \nUpon entering Night 8: Immediately click the locations to load up their assets (including "
+        "the Bed). This will speed up the process of checking out the doors / flipping back to the "
+        "bed next time, as well as preventing possible hitching.
+        \nDon\'t let Nightmare Foxy come in. After spinning back from the bed, the player has to wait "
+        "and listen for tiny footsteps before going to either one of the doors.
+        \nAfter deciding to close the door or shine the flashlight, quickly flip back to the Bed and "
+        "ward off the small Freddy counterparts.
+        \nIn other words, the player has to following this pattern: Doors, bed, repeat.
+        \nHowever, if the player heads towards the same door more than twice, it is advised to check "
+        "the opposite door as well to keep corresponding Nightmare animatronic from entering the "
+        "bedroom. (Pattern becomes, e.g: Left Door, bed, Left door, bed, Left Door, Right door, bed, "
+        "repeat. )
+        \nIf all goes well given that the player follows the above steps, Foxy should not be able to "
+        "enter the Closet, which would simplify the Night. One can also notice that by just focusing "
+        "on Nightmare Foxy, Nightmare Bonnie and Nightmare Chica would also be repelled.
+        \n\nWhen the timer hits 4 AM, Nightmare will appear, replacing all other four animatronics. "
+        "Start by returning to the centre of the bedroom. Listen for Nightmare\'s footsteps going left "
+        "or right until the audio cue stops completely, then head over to the corresponding door and "
+        "just promptly shut it. Don\'t turn on the light because that will increase the risk of getting "
+        "a game over.
+        \n\nWhen a laugh is heard, flip to the bed or head over to the closet to ward off Nightmare "
+        "(flashlights are a must if Nightmare is in the room), but if Nightmare\'s laugh and footsteps "
+        "are heard, he is not in the Bedroom. So even though laughter is heard, wait for a few more "
+        "seconds before judging if Nightmare really is in the bedroom or not."</string>
+
+</resources>

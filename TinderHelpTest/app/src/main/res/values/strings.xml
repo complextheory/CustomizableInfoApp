@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">"TinderHelpTest"</string>
+    <string name="ToolbarBack">"Back"</string>
+    <string name="MainTitle">"Tinder"</string>
+    <string name="subject_0_tv">"TINDER MESSAGING BASICS"</string>
+    <string name="Main_subTitle">"Guide"</string>
+
+    <string name="subject_0_title_tv">"BASKETBALL:"</string>
+
+    <string name="subject_0_description_tv">"The truth is that by and large, a girl is not going to "
+        "message you first. A few will, but over 80% of them just aren't going to do it.If you want "
+        "to talk to her, you're going to have to make the first move on Tinder."
+        \n\nSince girls are flooded with messages every single day, you need to send a message that "
+        "stands out. A message that grabs her attention and piques her curiosity. We ill dive into "
+        "specific examples later in this article, but for now, rest assured that you need to send "
+        "something more creative than \"hey.\""</string>
+
+    <string name="subject_1_title_tv">"TOP TIPS HOW TO BAG A DATE"</string>
+    <string name="subject_1_subTitle">"11 Top Tips"</string>
+    <string name="subject_1_description_tv">"1. Opening lines should feel natural \"There is no magic"
+        "opening line that works best, but the most successful way for a Tinder match to get my"
+        "attention is by pointing out something in my profile that sparked their interest - whether it's"
+        "my job, where I went to school, or my (adorable) dog Bijou.\" Plus, now Tinder has added a "
+        "GIF function that's a really fun way to show your personality and sense of humour. Just "
+        "remember that there's mutual interest which skips the awkward step of trying to figure out if "
+        "someone has an initial level of interest in you, so just relax and be yourself.
+    \n\n2. Don't skip the bio \"Never skip the bio section! It's your opportunity to tell your "
+        "potential matches more about yourself - your hobbies, your interests, what you're looking for.\""
+        "We surveyed some female Tinder users recently and discovered that men are 98% less likely"
+        "to get a \"swipe right\" if they don't have anything in their bio. But don't go overboard. "
+        "We have a 500-character limit for a reason - no one wants to read a novel when swiping on "
+        "profiles. 
+    \n\n3. It is actually worth connecting your Instagram \"The photos we take tell a totally unique "
+        "story about us and it's the way people communicate today - Instagram is a great way to "
+        "learn more about someone AND it's a great conversation starter.\" Connecting Instagram also "
+        "automatically keeps your profile fresh and up-to-date without you having to do it manually.
+    \n\n4. Sunday evenings are your best swiping time. \"We've found most users are most active on "
+        "Sunday evenings. But I personally just make it work for me and use it whenever I get some "
+        "downtime at the office or with friends - and especially when I'm traveling.\"
+    \n\n5. Don't be too hasty to give your digits. I've heard of couples who fell in \"love at first "
+        "swipe\" with the first person they matched with on Tinder and exchanged numbers right away, "
+        "but I think it's worth chatting within the app until you're sure you are interested in "
+        "meeting them. You're able to un-match with the other person on the app if you decide you're "
+        "no longer interested, which is a lot easier than telling them to lose your number
+    \n\n6. Make sure there's a talking point in your pictures. \"Be genuine. Your pictures should "
+        "give others a sense of your personality, hobbies, and interests. If you like to go skiing "
+        "or hiking, show it. If you're kind of a goofball, show it.\" We all deserve to be liked for "
+        "who we really are.
+    \n\n7. Don't let small talk put you off \"If things are drying up, it's always worth sending a "
+        "funny GIF or making the most of message liking, which I love - now if you don't want to "
+        "engage in small talk but you don't necessarily want to end the conversation, you can like "
+        "(click the green heart next to the message) the last message your match sent you.\"
+    \n\n8. Super Likes ACTUALLY increase your chance of a match. \"Your chances of getting a match "
+        "are 3x higher with a Super Like, and conversations that start with a Super Like last much "
+        "longer. I'm really flattered when I receive one knowing that someone sent their one daily "
+        "Super Like to me, and others will be the same.\"
+    \n\n9. Avoid neutral colors in your photos. \"We recently conducted a study that showed that the "
+        "majority of Tinder users wear neutral colors (black, white, navy, gray, etc.) - so if you "
+        "really want to stand out, show a pop of color n your outfit.\"
+    \n\n10. More pictures = more matches. Fact. \"Having more profile photos and making good use of "
+        "the bio section increases your chances of getting more matches exponentially.\" Adding your "
+        "job and education to your profile, which we enabled a few months ago, works amazingly well "
+        "also. \"We just made it so that you can upload profile photos directly from your phone's "
+        "camera roll, so it's easier than ever to revamp\n your Tinder profile. You're no longer "
+        "limited to the photos you have on Facebook.\"
+    \n\n11. Don't be restricted to the U.S. \"You can swipe anyone anywhere in the world with "
+        "passports. I know someone in every major city now and have made some great friends and "
+        "connections around the globe. It can really change the way you travel and help you to meed "
+        "amazing people along the way- because you can browse profiles without actually being in "
+        "that location.\""</string>
+
+    <string name="subject_2_title_tv">"SHOULD DO"</string>
+    <string name="subject_2_subTitle">"What should be done on Tinder"</string>
+
+    <string name="subject_2_description_tv">"Send the first message (try one of these Tinder "
+        "conversation starters)
+        \n\nReference details you notice in her bio pictures
+        \n\nCompliment her, but on something other than her looks
+        \n\nAsk genuine questions to get to know her better
+        \n\nWork on building a rapport
+        \n\nThen (and only then) move the conversation off Tinder"</string>
+
+    <string name="subject_3_title_tv">"SHOULDN'T DO"</string>
+    <string name="subject_3_subTitle">"What should not be done on Tinder"</string>
+
+    <string name="subject_3_description_tv">"Don't send a generic first message like \"hi\" or \"hey\".
+        \n\nDon't send a string of messages if she doesn't reply. As a general rule of thumb, only "
+        "send one message for each message she sends.
+        \n\nDon't send messages that are longer than a sentence or two.
+        \n\nDon't be angry or bitter if you get no response. And if you do have a temper, definitely "
+        "don't air it out in another Tinder message. That's how guys end up on ByeFelipe."</string>
+
+    <string name="subject_4_title_tv">"HOW TO TALK TO GIRLS"</string>
+    <string name="subject_4_subTitle">"Guide"</string>
+
+    <string name="subject_4_description_tv">"How to Message Girls On Tinder
+        \n\nThe last thing to keep in mind is to not get too hung up on the opening message. There "
+        "is no set of magical words that will get any girl to sleep with you from the first message. "
+        "So just chill and enjoy the process.
+        \n\nKeep It Simple
+        \n\nIt may seem obvious, but many men really do over-think something that does not need to "
+        "be overthought. You could try a simple.\n\nHey my name is John. It's nice to \"meet\" you.
+        \n\nThis is an OK way to open the girl on Tinder. This type of introduction gives the girl "
+        "a sense of genuineness and can make her feel like the man is trying to get to know her "
+        "rather than rushing into a hookup. Girls will typically continue messaging back and forth "
+        "with these types of openers, so it is a good way to get a girl chatting with you.
+        \n\nThe Humorous Opening
+        \n\nMen looking to meet women on Tinder can use humor when it comes to conversation openers. "
+        "The best thing to do is use their interests as a way to introduce humor. For example, if "
+        "the woman's interests show she likes a sports team a lot, you could open her like this:
+        \n\nHey you seem cool, but the Heat…really?!
+        \n\nThis is humorous and will likely get a response from the girl. The key is to not call "
+        "her out on something she could get offended by, like her religion. \n\nHey you seem cool, "
+        "but your're a Jew… really?! \n\nThat is not going to work. You will offend her and she will "
+        "most likely not reply. Stick to subjects that are not controversial and you should be good.
+        \n\nNot The Only Method
+        \n\nWhile using these copy and paste openers for Tinder is the best way to save time and "
+        "optimize your Tinder game, there are other ways to open girls on Tinder \n\nInstead of "
+        "copying and pasting one of the above, you can play off a profile or use a moments to open "
+        "a girl."</string>
+</resources>
